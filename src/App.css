@@ -1,0 +1,11 @@
+:root {
+  --blue: #1a8cd8;
+  --cursive: 'DynaPuff', cursive;
+  --white: #fff;
+  --black: #000;
+}
+
+.app {
+  width: 80%;
+  margin: 0 auto;
+}
